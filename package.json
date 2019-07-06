@@ -11,7 +11,9 @@
     "url": "https://github.com/Oaken-Innovations/mqttt/issues"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "keywords": [],
   "author": "Lex <lex@oakeninnovations.com>",
@@ -20,6 +22,8 @@
     "ethereumjs-util": "^5.1.1",
     "mqtt": "^2.7.1",
     "truffle-hdwallet-provider": "0.0.3",
-    "util": "^0.10.3"
-  }
+    "util": "^0.10.3",
+    "snyk": "^1.189.0"
+  },
+  "snyk": true
 }
