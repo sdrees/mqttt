@@ -14,3 +14,25 @@ patch:
         patched: '2019-07-04T00:09:30.972Z'
     - truffle-hdwallet-provider > web3-provider-engine > ethereumjs-vm > ethereumjs-block > async > lodash:
         patched: '2019-07-04T00:09:30.972Z'
+    - snyk > snyk-mvn-plugin > lodash:
+        patched: '2019-07-06T17:16:37.418Z'
+    - snyk > lodash:
+        patched: '2019-07-06T17:16:37.418Z'
+    - snyk > @snyk/dep-graph > lodash:
+        patched: '2019-07-06T17:16:37.418Z'
+    - snyk > inquirer > lodash:
+        patched: '2019-07-06T17:16:37.418Z'
+    - snyk > snyk-config > lodash:
+        patched: '2019-07-06T17:16:37.418Z'
+    - snyk > snyk-nuget-plugin > lodash:
+        patched: '2019-07-06T17:16:37.418Z'
+    - snyk > snyk-nodejs-lockfile-parser > lodash:
+        patched: '2019-07-06T17:16:37.418Z'
+    - snyk > @snyk/dep-graph > graphlib > lodash:
+        patched: '2019-07-06T17:16:37.418Z'
+    - snyk > snyk-go-plugin > graphlib > lodash:
+        patched: '2019-07-06T17:16:37.418Z'
+    - snyk > snyk-php-plugin > @snyk/composer-lockfile-parser > lodash:
+        patched: '2019-07-06T17:16:37.418Z'
+    - snyk > snyk-nodejs-lockfile-parser > graphlib > lodash:
+        patched: '2019-07-06T17:16:37.418Z'
