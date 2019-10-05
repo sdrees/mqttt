@@ -14,3 +14,8 @@ patch:
         patched: '2019-07-04T00:09:30.972Z'
     - truffle-hdwallet-provider > web3-provider-engine > ethereumjs-vm > ethereumjs-block > async > lodash:
         patched: '2019-07-04T00:09:30.972Z'
+  SNYK-JS-HTTPSPROXYAGENT-469131:
+    - snyk > proxy-agent > https-proxy-agent:
+        patched: '2019-10-05T00:14:21.085Z'
+    - snyk > proxy-agent > pac-proxy-agent > https-proxy-agent:
+        patched: '2019-10-05T00:14:21.085Z'
